@@ -4,4 +4,5 @@
 public class Main {
 
     System.out.println("Testing a push to GitHub");
+    System.out.println("Testing an update");
 }
